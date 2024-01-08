@@ -91,9 +91,9 @@ redirect_from:
 
 **INTERN EXPERIENCE**
 
-- 2023.07 - Present     Qiyuan Lab     Algorithm Intern
+- 2023.07 - Present $\quad$ Qiyuan Lab $\quad$ Algorithm Intern
 
-- 2022.07 - 2022.12     NXP Semiconductor Corporation     Algorithm Intern      
+- 2022.07 - 2022.12 $\quad$ NXP Semiconductor Corporation $\quad$ Algorithm Intern      
 
 <br>
 

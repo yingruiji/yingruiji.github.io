@@ -30,6 +30,14 @@ redirect_from:
 
 ---
 
+* _**Applying Ming furniture features to modern furniture design using deep learning**_
+
+	3/2023 - 8/2023
+
+    * By collecting and filtering existing physical images of Ming-style furniture, using a generative adversarial network algorithm (DCGAN) for image recognition and feature extraction, and generating modern furniture designs.
+
+---
+
 * _**Research and Optimizing Implementation of a New Stencil Parallel Algorithm**_
 
     07/2021 - 06/2022                         

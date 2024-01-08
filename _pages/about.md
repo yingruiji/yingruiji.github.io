@@ -91,13 +91,15 @@ For additional details, see her [Full CV](../files/CV_Yingrui_Ji.pdf).
 
 <!-- <br> -->
 
-**<u>Intern Experience</u>**
+**<u>INTERN EXPERIENCE</u>**
  
-- 2023.07 - Present   Qiyuan Lab
+- 2023.07 - Present $\quad$   Qiyuan Lab
+<br>
 We refine the four datasets, use the evaluation algorithm to reduce the noise in these datasets, and clear the ID data in the OOD data set to ensure that the evaluation results are more reliable. 
   - Responsible for small algorithm model optimization and datasets optimization for Out-of-Distribution Detection.
 
-- 2022.07 - 2022.12   NXP Semiconductor Corporation
+- 2022.07 - 2022.12 $\quad$   NXP Semiconductor Corporation
+<br>
 Complete the conversion of the eiq-deepview model in the eiq-toolkit into the form required by the user, which is convenient for the user's subsequent development, and at the same time output the model result in the form of a picture. Optimize the training code of eiq-toolkit, reduce redundancy, help the group train and test new project use cases and write test files, submit and solve bugs in the updated version of eiq-toolkit during the test. 
   - Convert commercial models, optimize training codes, and test new version use cases.
     
