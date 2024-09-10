@@ -64,6 +64,12 @@ For additional details, see her [Full CV](../files/CV_Yingrui_Ji.pdf).
 
 **<u>PUBLICATIONS</u>**
 
+- **Yingrui Ji**, Vijaya Sindhoori Kaza, Nishanth Artham, Tianyang Wang, Deep Active Learning with Manifold-Preserving Trajectory Sampling. (Submitted to ICASSP 2025) 
+
+- Zeyu Wang, Yizhuo Chang, **Yingrui Ji**, Zhongruo Wang, Yuwang Wang, Zhigang Li, Yiqing Shen, CausalHalEval: A Benchmark for Evaluating the Hallucination of LLMs from the Perspective of Casual Reasoning and Inference Capabilities. (Submitted to AAAI 2025) 
+
+- Jiayi Guo, Zan Chen, Yizhuo Chang, **Yingrui Ji**, Daqin Luo, Liyun Zhang, Zhongruo Wang, Zhigang Li, Yiqing Shen, UniAutoML: A Human-Centered Framework for Unified Discriminative and Generative AutoML with Large Language Models. (Submitted to AAAI 2025) 
+
 - **Yingrui Ji**, Yao Zhu, Zhigang Li, Jiansheng Chen, Yunlong Kong, Jingbo Chen. 2023. *Advancing Out-of-Distribution Detection through Data Purification and Dynamic Activation Function Design*. IEEE Transactions on Circuits and Systems for Video Technology(*IEEE TCSVT*)[J]. (Under Review) [PDF](../files/OOD.pdf)
 - Zijie Ding, **Yingrui Ji**, Yan Gan, Yuwen Wang, Yukun Xia. 2023. *Current Status and Development Trends of Technology, Methods, and Application Fields of Human-computer Intelligent Interaction: Bibliometric Research*[J]. (available accept) [PDF](../files/Bib.pdf)
 - Yukun Xia, **Yingrui Ji**, Yan Gan, Zijie Ding. 2023. *Applying Ming furniture features to modern furniture design using deep learning*. Artificial Intelligence, Social Computing and Wearable Technologies. [PDF](../files/Ming.pdf) 
