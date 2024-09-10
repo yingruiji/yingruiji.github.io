@@ -56,7 +56,8 @@ redirect_from:
 <br>
 
 **PUBLICATIONS**
-- **Yingrui Ji**, Xingjian Li, Tianyang Wang, AL-Mix: A general method in Active Learning. (Submitted to ICASSP 2025) 
+
+- **Yingrui Ji**, Vijaya Sindhoori Kaza, Nishanth Artham, Tianyang Wang, Deep Active Learning with Manifold-Preserving Trajectory Sampling. (Submitted to ICASSP 2025) 
 
 - Zeyu Wang, Yizhuo Chang, **Yingrui Ji**, Zhongruo Wang, Yuwang Wang, Zhigang Li, Yiqing Shen, CausalHalEval: A Benchmark for Evaluating the Hallucination of LLMs from the Perspective of Casual Reasoning and Inference Capabilities. (Submitted to AAAI 2025) 
 
