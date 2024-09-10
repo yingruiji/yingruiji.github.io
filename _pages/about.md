@@ -8,7 +8,7 @@ redirect_from:
   - /aboutme.html
 ---
 
-Yingrui Ji is studying as a Ph.D student at Aerospace Information Research Institute, Chinese Academy of Sciences in 2022. Her main research interests are in optimizing computer vision model training/inference, high-performance computing, high-performance deep learning systems, and enhancement for classifying low-quality image samples.
+Yingrui Ji is studying as a Ph.D student at University of Chinese Academy of Sciences in 2022. Her main research interests are in optimizing computer vision model training/inference, high-performance computing, high-performance deep learning systems, and enhancement for classifying low-quality image samples.
 
 For additional details, see her [Full CV](../files/CV_Yingrui_Ji.pdf).
 

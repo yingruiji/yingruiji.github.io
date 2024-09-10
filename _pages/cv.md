@@ -12,7 +12,7 @@ redirect_from:
 
 **EDUCATION BACKGROUND**
 
-* Ph.D in Machine Learning and Computer Vision, Aerospace Information Research Institute, Chinese Academy of Sciences, 09/2022 - 06/2026
+* Ph.D in Machine Learning and Computer Vision, University of Chinese Academy of Sciences, 09/2022 - 06/2026
 
 * M.S. in Computer Science and Technology, Institute of Computing Technology (ICT), Chinese Academy of Sciences and Dalian Ocean University  Joint Training, 09/2019 - 06/2022
 
@@ -56,6 +56,11 @@ redirect_from:
 <br>
 
 **PUBLICATIONS**
+- **Yingrui Ji**, Xingjian Li, Tianyang Wang, AL-Mix: A general method in Active Learning. (Submitted to ICASSP 2025) 
+
+- Zeyu Wang, Yizhuo Chang, **Yingrui Ji**, Zhongruo Wang, Yuwang Wang, Zhigang Li, Yiqing Shen, CausalHalEval: A Benchmark for Evaluating the Hallucination of LLMs from the Perspective of Casual Reasoning and Inference Capabilities. (Submitted to AAAI 2025) 
+
+- Jiayi Guo, Zan Chen, Yizhuo Chang, **Yingrui Ji**, Daqin Luo, Liyun Zhang, Zhongruo Wang, Zhigang Li, Yiqing Shen, UniAutoML: A Human-Centered Framework for Unified Discriminative and Generative AutoML with Large Language Models. (Submitted to AAAI 2025) 
 
 - **Yingrui Ji**, Yao Zhu, Zhigang Li, Jiansheng Chen, Yunlong Kong, Jingbo Chen. 2023. *Advancing Out-of-Distribution Detection through Data Purification and Dynamic Activation Function Design*. IEEE Transactions on Circuits and Systems for Video Technology(*IEEE TCSVT*)[J]. (Under Review) 
 
